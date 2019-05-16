@@ -1,2 +1,2 @@
 # GendeReporting
-Caspstone project at the University of Zürich looking on media attention and framing.
+Caspstone project at the University of Zürich looking at media attention and framing.
