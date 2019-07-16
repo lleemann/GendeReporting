@@ -254,7 +254,6 @@ df_topic_match_recoded <- df_topic_match_recoded[ ! df_topic_match_recoded$topic
 saveRDS(df_topic_match_recoded, "~/APS/df_topic_match_recoded_all_sorted.rds")
 
 ############################################################
-#### Capstone Course Media Representation               ####
 #### Topic Classifier Training                          ####
 ############################################################
 
